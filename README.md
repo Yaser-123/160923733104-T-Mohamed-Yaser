@@ -10,7 +10,6 @@ This folder contains the final assignment for the Lords Engineering College Boot
 > **Note:** The final assignment is available in this folder. All code, documentation, and required images are present as per the assignment instructions.
 
 # Folder Structure
-```
 images/
     ├── Delete.png
     ├── Get.png
@@ -23,20 +22,9 @@ src/
                 └── example/
                     └── demo/
                         ├── controller/
-                            ├── FanController.java
-                            ├── HelloController.java
                             ├── StudentProfileController.java
                             └── TaskController.java
-                        ├── fan/
-                            ├── Fan.java
-                            ├── FanDemo.java
-                            └── FanSpeed.java
                         ├── internship/
-                            ├── inputoutput/
-                                └── InputOutputDemo.java
-                            ├── laptop/
-                                ├── Laptop.java
-                                └── LaptopTest.java
                             └── student/
                                 ├── Student.java
                                 └── StudentTest.java
@@ -44,7 +32,6 @@ src/
                             ├── Status.java
                             └── Task.java
                         ├── services/
-                            ├── FanService.java
                             ├── StudentProfileService.java
                             └── TaskService.java
                         ├── studentprofile/
@@ -52,9 +39,6 @@ src/
                         └── InternshipApplication.java
         └── resources/
             └── application.properties
-.DS_Store
-.gitignore
-BOOTCAMPNOTES.pages
 pom.xml
 README.md
 ```
