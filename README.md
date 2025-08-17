@@ -10,6 +10,7 @@ This folder contains the final assignment for the Lords Engineering College Boot
 > **Note:** The final assignment is available in this folder. All code, documentation, and required images are present as per the assignment instructions.
 
 # Folder Structure
+```
 images/
     ├── Delete.png
     ├── Get.png
